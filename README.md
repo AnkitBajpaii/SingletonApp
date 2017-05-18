@@ -7,5 +7,5 @@ This code can be used as a reference code while implementing a singleton app and
 
 Happy Coding :smile:  
 
-**Tools:** Visual studio 2010 or above and .NET Framework 4 or higher
+**Tools:** Visual studio 2010 or above and .NET Framework 4 or higher  
 **Language:** C#
