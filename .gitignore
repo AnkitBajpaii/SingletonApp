@@ -8,10 +8,7 @@
 **/*.app/**
 **/*.framework/**
 **/*.service/**
-**/*.refInspector/**
 **/*.palette/**
-**/*.EOMbundle/**
-**/*.ALSDecision/**
 **/*.bundle/**
 
 #################
@@ -26,14 +23,6 @@
 **/.gradle/**
 **/ALSMBeanService/ALSServer/**
 
-# Symlink files need to ignored.
-**/Java/risk-manager-server/risk-manager-service/cayenne-datamodel-service/src/main/resources/cayenne-project.xml
-**/Java/risk-manager-server/risk-manager-service/cayenne-datamodel-service/src/main/resources/datamap.map.xml
-**/Java/risk-manager-server/risk-manager-service/cayenne-datamodel-service/src/test/resources/cayenne-project.xml
-**/Java/risk-manager-server/risk-manager-service/cayenne-datamodel-service/src/test/resources/datamap.map.xml
-**/Java/risk-manager-server/risk-manager-service/cayenne-datamodel-service/src/test/resources/hsql.ddl
-
-
 #################
 ## Dotnet_Build
 #################
@@ -44,7 +33,6 @@
 **/Release/**
 **/x86/**
 **/bin/**
-**/ThirdPartyLib/**
 
 #################
 ## JMS_Build
@@ -306,17 +294,3 @@ hs_err_pid*
 **/.idea/dictionaries
 **/.idea/uiDesigner.xml
 out/
-/dotNET/SSRS Report Templates/Amphora/Confirms
-/dotNET/SSRS Report Templates/Amphora/Invoices/JETProvInvoice-LOI_1.rdl
-/dotNET/SSRS Report Templates/Amphora/Invoices/JETProvInvoice-LOI_2.rdl
-/dotNET/SSRS Report Templates/Amphora/Invoices/PrimaryCostInvoice.rdl
-/dotNET/SSRS Report Templates/Amphora/Invoices/SecondaryCostInvoice.rdl
-/dotNET/SSRS Report Templates/MOH/Invoices/JetProvInvoice-LOI_1.rdl
-/dotNET/SSRS Report Templates/MOH/Invoices/JetProvInvoice-LOI_2.rdl
-/dotNET/SSRS Report Templates/Amphora/Confirms/PhysicalConfirmBioDieselWithRin.rdl
-/dotNET/SSRS Report Templates/Amphora/Invoices/JETProvInvoice-LOI_1.rdl
-/dotNET/SSRS Report Templates/Amphora/Invoices/JETProvInvoice-LOI_2.rdl
-/dotNET/SSRS Report Templates/Amphora/Invoices/PrimaryCostInvoice.rdl
-/dotNET/SSRS Report Templates/Amphora/Invoices/SecondaryCostInvoice.rdl
-/dotNET/SSRS Report Templates/MOH/Invoices/JetProvInvoice-LOI_1.rdl
-/dotNET/SSRS Report Templates/MOH/Invoices/JetProvInvoice-LOI_2.rdl
