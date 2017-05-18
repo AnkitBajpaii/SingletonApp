@@ -5,7 +5,7 @@ This code also shows up splash screen at the time of initial loading.
 <br />
 This code can be used as a reference code while implementing a singleton app and can be customized as per need.
 
-Happy Coding :simple_smile:  
+Happy Coding :smile:  
 
 **Tools:** Visual studio 2010 or above and .NET Framework 4 or higher
 **Language:** C#
